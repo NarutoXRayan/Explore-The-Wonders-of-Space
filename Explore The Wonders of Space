@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Exploring The Wonders of Space</title>
+  <link rel="stylesheet" href="ITGroup2.0.css" />
+</head>
+<body>
+  <header>
+    <h1>🚀Explore The Wonders of Space</h1>
+    <p>From moon landings to distant galaxies, witness humanity's boldest adventures beyond Earth.</p>
+  </header>
+
+  <nav>
+    <a href="#missions">Missions</a>
+    <a href="#astronauts">Astronauts</a>
+    <a href="#planets">Planets</a>
+  </nav>
+
+  <main>
+    <section id="missions">
+      <h2>🌌 Famous Space Missions</h2>
+      <article>
+        <ul>
+          <li>
+            <strong>Apollo 11:</strong> First humans landed on the Moon, 1969. <br>
+            <button class="button" onclick="window.open('https://www.youtube.com/embed/-oaJmgm8hs4?si=DZhMUvWHWbnHJUue', '_blank')">Watch Mission Video</button>
+          </li>
+          <li>
+            <strong>Perseverance Rover:</strong> Searching for life on Mars. <br>
+            <button class="button" onclick="window.open('https://www.youtube.com/embed/WrTHX8t0yl8?si=LsjL668m-IIwZH4z', '_blank')">Watch Mission Video</button>
+          </li>
+          <li>
+            <strong>James Webb Telescope:</strong> Unveiling cosmic secrets since 2021. <br>
+            <button class="button" onclick="window.open('https://youtu.be/AvioLeO8Weo', '_blank')">Watch Mission Video</button>
+          </li>
+        </ul>
+      </article>
+    </section>
+
+    <section id="astronauts">
+      <h2>👩‍🚀Inspiring Astronauts</h2>
+      <article>
+        <ul>
+          <li>
+            <strong>Neil Armstrong:</strong> The first person on the Moon. <br>
+            <button class="button" onclick="window.open('https://youtu.be/flPFlY8hECk?si=6mjU01OgraycjAUX', '_blank')">Learn About Astronaut</button>
+          </li>
+          <li>
+            <strong>Valentina Tereshkova:</strong> The first woman in space. <br>
+            <button class="button" onclick="window.open('https://youtu.be/66ZepxsY3sU', '_blank')">Learn About Astronaut</button>
+          </li>
+          <li>
+            <strong>Chris Hadfield:</strong> Shared daily space life on social media. <br>
+            <button class="button" onclick="window.open('https://youtu.be/W9gqGS4XvzI?si=OQFTOoEzjLVUWVjw', '_blank')">Learn About Astronaut</button>
+          </li>
+        </ul>
+      </article>
+    </section>
+
+    <section id="planets">
+      <h2> <b> 🌍 Planets of our Solar System </b></h2>
+      <article>
+        <ul>
+          <li><strong>Mercury:</strong> Closest planet to the Sun with extremely high temperatures.</li><br>
+          <li><strong>Venus:</strong> Thick carbon dioxide atmosphere makes it the hottest planet.</li><br>
+          <li><strong>Earth:</strong> The only planet known to support life and has liquid water on its surface.</li><br>
+          <li><strong>Mars:</strong> It is red because of iron-rich dust.</li><br>
+          <li><strong>Jupiter:</strong> Largest planet with a giant storm called the Great Red Spot.</li><br>
+          <li><strong>Saturn:</strong> Has beautiful rings made of ice and rock.</li><br>
+          <li><strong>Uranus:</strong> Rotates on its side with a tilt over 90°.</li><br>
+          <li><strong>Neptune:</strong> Strongest winds in the Solar System.</li><br>
+        </ul>
+        <button class="button" onclick="window.open('https://youtu.be/nJ91d-94AIU?si=QDmcAT8In_Oos67k', '_blank')">Learn About The Planets of our Solar System</button>
+      </article>
+    </section>
+  </main>
+
+ <footer>
+  <p>&copy; 2025: Explore the Wonders of Space. All rights reserved.</p>
+  <p><a href="#" class="back-to-top">🔝 Back to Top</a></p>
+</footer>
+</body>
+</html>
